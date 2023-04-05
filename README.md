@@ -4,7 +4,7 @@ Build a model capable of detecting and classifying objects from aerial imagery
 ## Objective of this notebook
 - The purpose of this notebook is to build model capable of detecting and classifying objects from aerial imagery
 - The algorithm of choice here is YOLOV7 and we would be custom training YOLOV7 on an aerial imagery datatset
-- Details of the **problem statement**  , **data set** ,  **summary of the code/solution**  , **sample output/Prediction** from the program and **final result** of the project are listed in the sections to follow.
+- Details of the **problem statement**  , **data set** , **data pre-processing & data splits,  **summary of the code/solution**  , **sample output/Prediction** from the program and **final result** of the project are listed in the sections to follow.
 
 ## Problem Statement 
 Computer vision enables armed forces to optimise their missions, enhance the security of soldiers and protect citizens by using oject detection on satellite imagery to detect unusual activities at the borders.
