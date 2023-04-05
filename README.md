@@ -12,7 +12,7 @@ Computer vision enables armed forces to optimise their missions, enhance the sec
 
 ## Data Description:
 - Data Set: xView1 Dataset https://challenge.xviewdataset.org/data-explore 
-- Total No Of classes in the entire dataset = 60 - some examples include -> Small Aircraft,Cargo Plane,Pickup Truck,Container Ship,Oil Tanker,Helicopter,Crane Truck e.t.c
+- Total No Of classes in the entire dataset = 60 - some examples include are Small Aircraft,Cargo Plane,Pickup Truck,Container Ship,Oil Tanker,Helicopter,Crane Truck e.t.c
 - Total No Of Image Files = 847
 - Total no of Instances/Objects across all images= 6,01,937
  
@@ -40,12 +40,15 @@ The code aims at custom training YOLOV7 on the xView dataset
 - Run inferences on some images from validation split
 
 ## Sample Ouput/Prediction :
-Here is a sample Ouput image from  the program/model alongside the ground truth
+Here is a couple of sample Ouput images from  the program/model .
+
+![image](https://user-images.githubusercontent.com/68383273/230123824-a8c0de0d-d6de-4cbb-ab1f-52b27ae4b1a1.png)
+
+![image](https://user-images.githubusercontent.com/68383273/230122485-634bd05b-5303-4509-8830-b254895de942.png)
+
 
 
 ## Result
-
-![image](https://user-images.githubusercontent.com/68383273/230117509-34b324ae-517a-462c-93f1-926368f64b5f.png)
 
 ![image](https://user-images.githubusercontent.com/68383273/230117826-11cf8763-d2ce-420b-a9d8-c84814b41e40.png)
 
