@@ -12,9 +12,9 @@ Computer vision enables armed forces to optimise their missions, enhance the sec
 
 ## Data Description:
 - Data Set: xView1 Dataset https://challenge.xviewdataset.org/data-explore 
-- Total No Of classes = 60 some examples include  - Small Aircraft,Cargo Plane,Pickup Truck,Container Ship,Oil Tanker,Helicopter,Crane Truck
+- Total No Of classes = 60 - some examples include -> Small Aircraft,Cargo Plane,Pickup Truck,Container Ship,Oil Tanker,Helicopter,Crane Truck e.t.c
 - Total No Of Image Files = 847
-- Total no of Instances/Objects= 6,01,937
+- Total no of Instances/Objects across all images= 6,01,937
  
 
 
