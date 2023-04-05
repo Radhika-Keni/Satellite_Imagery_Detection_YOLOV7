@@ -1,4 +1,4 @@
-# Aerial_Imagery_Detection
+# Satellite/Aerial Imagery_Detection
 Build a model capable of detecting and classifying objects from aerial imagery 
 
 ## Objective of this notebook
